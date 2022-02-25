@@ -28,7 +28,6 @@ M9SD_fnc_addFaradayArsenalActions =
 				playSound ['beep_target', true];
 				playSound ['beep_target', false];
 				['Preload'] call BIS_fnc_arsenal;
-				comment "['Open', [true]] call BIS_fnc_arsenal; <-- WTF IS THE DIFFERENCE?";
 				['Open', true] spawn BIS_fnc_arsenal;
 				0 = [] spawn 
 				{
