@@ -1,4 +1,4 @@
-comment "Branch: Pub Zeus Compatible (Small)";
+comment "Branch: Pub Zeus Compatible (Small Supply Box)";
 clearWeaponCargoGlobal this; 
 clearBackpackCargoGlobal this; 
 clearMagazineCargoGlobal this; 
